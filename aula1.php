@@ -13,7 +13,7 @@
     <?php
 
         // Variáveis
-        $num1=10;
+        $num2=10;
         $num2=10;
 
         // Efetua a soma
