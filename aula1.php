@@ -11,17 +11,18 @@
     <h1>Efetuando uma soma com PHP</h1>
      
     <?php
-
         // Variáveis
         $num2=10;
         $num2=10;
+        &num3=10;
 
         // Efetua a soma
-        $total = $num1+$num2;
+        $total = $num1+$num2+$num3;
+        $subtracao = $num1-$num2-$num3;
 
         // Mostrando Resultado
         echo "O Resultado da soma é $total";
-    
+        echo "O Resultado da subtração é $subtracao";
     ?>    
 
 </body>
